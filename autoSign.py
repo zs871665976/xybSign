@@ -311,9 +311,3 @@ def main():
         # sendServerChan('签到失败!')
         log('签到失败!')
 
-#腾讯云函数使用
-def main_handler(event, context):
-    main()
-            
-if __name__ == '__main__':
-    main()
