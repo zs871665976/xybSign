@@ -1,16 +1,16 @@
 {
   "token":{
-    "openId":"",
-    "unionId":""
+    "openId":"ooru94oWSwzMezwDS-IHWl63rGFA",
+    "unionId":"oHY-uwW630QzKgxkpAIZC6-pNBJw"
   },
   "location":{
     "country":"中国",
-    "province":"",
-    "city":"",
-    "adcode":"",
-    "address":""
+    "province":"河北省",
+    "city":"保定市",
+    "adcode":"130600",
+    "address":"南关街道河北农业大学东校区"
   },
-  "reason": "",
+  "reason": "签到",
   "Qmsg":"",
   "ServerChan":""
 }
