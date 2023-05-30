@@ -4,10 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "20 23 * * *" # 上班卡
-    - cron: "30 23 * * *" # 每日签到检查，如不需要可删除这行
-    - cron: "40 09 * * *" # 下班卡
-    - cron: "50 09 * * *" # 每日签到检查，如不需要可删除这行
 
+    - cron: "40 09 * * *" # 下班卡
 jobs:
   build:
     runs-on: ubuntu-latest
