@@ -27,4 +27,4 @@ jobs:
       env:
         USERS: ${{ secrets.USERS }}
       run: |
-        python autoSign.py
+        python copy.py
